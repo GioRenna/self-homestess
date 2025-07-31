@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"cert_manager","Source":"../modules/cert-manager","Dir":"../modules/cert-manager"},{"Key":"ingress","Source":"../modules/ingress","Dir":"../modules/ingress"},{"Key":"metallb","Source":"../modules/metallb","Dir":"../modules/metallb"}]}
